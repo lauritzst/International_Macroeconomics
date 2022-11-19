@@ -3,7 +3,7 @@
 %{
 
         MATLAB Code for Assignment 1a
-        Submitted by Lauritz Storch (21-607-015)
+        Submitted by Lauritz Storch
 
 %}
 
